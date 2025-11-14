@@ -24,8 +24,8 @@ warnings.filterwarnings('ignore')
 
 DATASET_LINK='http://files.grouplens.org/datasets/movielens/ml-100k.zip'
 
-!wget -nc http://files.grouplens.org/datasets/movielens/ml-100k.zip
-!unzip -n ml-100k.zip
+# !wget -nc http://files.grouplens.org/datasets/movielens/ml-100k.zip
+# !unzip -n ml-100k.zip
 
 """Configuring for visualization"""
 
