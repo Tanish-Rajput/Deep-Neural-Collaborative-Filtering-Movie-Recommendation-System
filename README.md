@@ -88,7 +88,7 @@ pip
 ### Step 1: Clone Repository
 ```bash
 git clone https://github.com/Tanish-Rajput/Deep-Neural-Collaborative-Filtering-Movie-Recommendation-System
-cd neural-collaborative-filtering
+cd Deep-Neural-Collaborative-Filtering-Movie-Recommendation-System
 ```
 
 ### Step 2: Install Dependencies
